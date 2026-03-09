@@ -75,15 +75,14 @@ Ambos os modelos convergiram nos mesmos fatores:
 
 ## ▶️ Como Rodar o Projeto
 
+
 O projeto roda inteiramente no **Google Colab** — não é necessário instalar nada localmente.
 
 **1. Acesse o notebook**
 
 Clique no badge abaixo para abrir diretamente no Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElielSf/telecomx-br-pt2/blob/main/TelecomX_BR_pt2.ipynb)
-
-Ou acesse manualmente em [colab.research.google.com](https://colab.research.google.com), clique em `Arquivo → Abrir notebook → GitHub` e cole a URL deste repositório.
+Acesse o notebook diretamente pelo GitHub e abra no Colab clicando em `Abrir no Colab` no topo do arquivo, ou acesse em [colab.research.google.com](https://colab.research.google.com), clique em `Arquivo → Abrir notebook → GitHub` e cole a URL deste repositório.
 
 **2. Execute todas as células em ordem**
 
